@@ -1,5 +1,8 @@
 # ETL-Project
 
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" align="left"
+     alt="Netflix Logo" width="120" height="178">
+     
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" align="right"
      alt="Netflix Logo" width="120" height="178">
 
