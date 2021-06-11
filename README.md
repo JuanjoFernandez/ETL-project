@@ -1,10 +1,11 @@
 # ETL-Project
 
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="120" height="150" aling="left">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="150" aling="left">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Dinsey Logo" height="150" aling="left">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Dinsey Logo" height="150" aling="left">
-
+<p float="left">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="120">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="150">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Dinsey Logo" height="150">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Dinsey Logo" height="150">
+</p>
 
 <br>
 Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
