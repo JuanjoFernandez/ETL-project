@@ -14,17 +14,17 @@ Load: the final database, tables/collections, and why this was chosen.
 
 The project is structured in the following steps:
 
-## Project Proposal 📄
+## Project Proposal 🎯
 
-## Finding Data 🚀
+## Finding Data 🔎
 
-## Data Cleanup & Analysis ⚙️
+## Data Cleanup & Analysis 📊
 
-## Project Report 🚀
+## Project Report 📑 
 
 
 
-## Team members ☕
+## Team members 👥
 
 * **Angie Cruz** - *HTML* - [angieglass](https://github.com/angieglass)
 * **Robero Miranda** - *HTML* - [robmir22](https://github.com/robmir22)
