@@ -1,5 +1,8 @@
 # ETL-Project
 
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" align="right"
+     alt="Netflix Logo" width="120" height="178">
+
 Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
 
@@ -11,17 +14,17 @@ Load: the final database, tables/collections, and why this was chosen.
 
 The project is structured in the following steps:
 
-## Project Proposal 🚀
+## Project Proposal 📄
 
 ## Finding Data 🚀
 
-## Data Cleanup & Analysis 🚀
+## Data Cleanup & Analysis ⚙️
 
 ## Project Report 🚀
 
 
 
-## Team members ✒️
+## Team members ☕
 
 * **Angie Cruz** - *HTML* - [angieglass](https://github.com/angieglass)
 * **Robero Miranda** - *HTML* - [robmir22](https://github.com/robmir22)
