@@ -1,16 +1,15 @@
-# ETL-Project
+# ETL-Project / Platform Movies
 
 - Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 - Transform: what data cleaning or transformation was required.
 - Load: the final database, tables/collections, and why this was chosen.
 <br>
-<p float="center">
+<p align="center">
 <img style="margin: 300px" src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="90">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="150">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Hulu Logo" height="90">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Prime Logo" height="100">
 </p>
-
 
 
 <br>
