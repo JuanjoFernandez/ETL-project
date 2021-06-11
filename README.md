@@ -6,7 +6,7 @@
 <br>
 <p align="center">
 <img style="margin-right:20px padding:100" src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="90">
-  
+<p>" "</p>
 <img style="padding: 20px" src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="150">
 <img style="padding: 20px" src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Hulu Logo" height="90">
 <img style="padding: 20px" src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Prime Logo" height="100">
