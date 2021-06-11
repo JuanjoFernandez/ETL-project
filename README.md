@@ -1,11 +1,11 @@
 # ETL-Project
 
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" align="left"
-     alt="Netflix Logo" width="120" height="178">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="178">
      
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" align="right"
      alt="Netflix Logo" width="120" height="178">
 
+<br>
 Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
 
