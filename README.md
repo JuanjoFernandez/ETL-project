@@ -8,15 +8,13 @@
 </p>
 
 <br>
-Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
+- Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+- Transform: what data cleaning or transformation was required.
+- Load: the final database, tables/collections, and why this was chosen.
 
-Transform: what data cleaning or transformation was required.
-
-
-Load: the final database, tables/collections, and why this was chosen.
-
-
+<br>
+<hr>
 The project is structured in the following steps:
 
 ## Project Proposal 🎯
