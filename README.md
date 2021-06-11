@@ -3,8 +3,8 @@
 <p float="left">
 <img style="padding:1" src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="80">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="150">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Hulu Logo" width="180">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Prime Logo" width="180">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Hulu Logo" width="200">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Prime Logo" width="200">
 </p>
 
 <br>
