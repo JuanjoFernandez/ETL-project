@@ -3,7 +3,8 @@
 
 - Extract: your original data sources and how the data was formatted (CSV, JSON, MongoDB). The data sources come from Kaggle, which contain a large list of movies and series.
 - Transform: what data cleaning or transformation was required. In order to transform and cleaning data, the team worked in Jupyter Notebook with two dataframe (MoviesOnstreamingPlattaform and Netflix_dataset) and concatenated both.
-- Load: the final database, tables/collections, and why this was chosen.
+- Load the final Dataframe for Mongo because of its Simplicity of design. We chose a non-relational to load transformed data in order to be queried through and app by our users.
+
 <br>
 <p align="center">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="90">
