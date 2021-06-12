@@ -6,9 +6,9 @@
 <br>
 <p align="center">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/netflix_logo.png" alt="Netflix Logo" width="90">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="150">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/disney_logo.png" alt="Dinsey Logo" height="140">
 <img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/hulu_logo.png" alt="Hulu Logo" height="90">
-<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Prime Logo" height="100">
+<img src="https://github.com/JuanjoFernandez/ETL-project/blob/main/images/prime_logo.png" alt="Prime Logo" height="90">
 </p>
 
 
