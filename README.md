@@ -1,5 +1,5 @@
 # ETL-Project / Platform Movies
--The objective of this project is to give a glimpse to final users on the similarity of movie titles between the most popular streaming suppliers.
+-The objective of this project is to give a glimpse of the similarity of movie titles between the most popular streaming suppliers.
 
 - Extract: your original data sources and how the data was formatted (CSV, JSON, MongoDB). The data sources come from Kaggle, which contain a large list of movies and series.
 - Transform: what data cleaning or transformation was required. In order to transform and cleaning data, the team worked in Jupyter Notebook with two dataframe (MoviesOnstreamingPlattaform and Netflix_dataset) and concatenated both.
