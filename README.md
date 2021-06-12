@@ -33,6 +33,7 @@ The project is structured in the following steps:
 * **Angie Cruz** - *Data cleaning* - [angieglass](https://github.com/angieglass)
 * **Robero Miranda** - *Web app/Data cleaning* - [robmir22](https://github.com/robmir22)
 * **Juan José Fernández** - *HTML* - [JuanjoFernandez](https://github.com/JuanjoFernandez)
+* **Rafael Deyta** - *Data cleaning* - [deytarb](https://github.com/deytarb)
 * **Andrés Estrada** - *Data cleaning* - [andrebestrada](https://github.com/andrebestrada)
 
 You can also see the complete list with all [contributors](https://github.com/JuanjoFernandez/ETL-project/graphs/contributors) who worked on this project. 
